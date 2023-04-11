@@ -3,7 +3,7 @@
   "short_name": "Classes",
   "theme_color": "#fff",
   "background_color": "#fff",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "any",
   "scope": "/",
   "start_url": "/",
